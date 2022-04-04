@@ -5,8 +5,8 @@ import './Header.css'
 const Header = () => {
     return (
        
-        <div className=''>
-             <h2 className='bg-black text-center text-white h-20 pt-4 text-4xl'>
+        <div className='border-b-4'>
+             <h2 className='bg-red-900 text-center text-white font-bold h-20 pt-4 pb-4 text-5xl'>
                 Pursify
             </h2>
             <nav className='header'>
