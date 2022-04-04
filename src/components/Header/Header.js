@@ -4,18 +4,19 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <nav className='header'>
-            <h2>
+       
+        <div className=''>
+             <h2 className='bg-black text-center text-white h-20 pt-4 text-4xl'>
                 Pursify
             </h2>
-            <div>
+            <nav className='header'>
                 <Link to="/">Home</Link>
                 <Link to="/reviews">Reviews</Link>
                 <Link to="/dashboard">Dashboard</Link>
                 <Link to="/blogs">Blogs</Link>
                 <Link to="/about">About</Link>
-            </div>
-        </nav>
+            </nav>
+        </div>
     );
 };
 
