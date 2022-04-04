@@ -17,8 +17,11 @@ const Home = () => {
                 <p className='m-5 p-5'>Our Summer Edition  has launched.As per our promise we are back with super comfy and regular usable handbag. Mostly are hand customed from brazil and designs are inspired from West. We are hoping your response since we have products in stock. Grab before stock outs.</p>
             </div>
             <button className='bg-red-900  text-white font-bold p-3 rounded-full'> Watch Live</button>
-        </div>
 
+            <div>
+                <h1>What our customers says:</h1>
+            </div>
+        </div>
     );
 };
 
