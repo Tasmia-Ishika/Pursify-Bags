@@ -4,6 +4,7 @@ import About from './components/About/About';
 import Blogs from './components/Blogs/Blogs';
 import Dashboard from './components/Dashboard/Dashboard';
 import Error from './components/Error/Error';
+import Footer from './components/Footer/Footer';
 
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
@@ -22,6 +23,7 @@ function App() {
         <Route path="/about" element={<About></About>}></Route>
         <Route path="*" element={<Error></Error>}></Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

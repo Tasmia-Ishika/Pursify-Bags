@@ -2,14 +2,14 @@
     {
       "id": "01",
       "img": "https://img.freepik.com/free-photo/attractive-mixed-race-male-with-positive-smile-shows-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept_273609-15527.jpg?t=st=1649072715~exp=1649073315~hmac=531e6bcc7c3846f19eef7d85db1e597a4d08702c94ce2b3a7f12829c167d7906&w=900",
-      "name": "Raphael",
+      "name": "Raphael Bin Omar",
       "about": "Bought a bag for my wife. She liked it very much,specially quality. Thanks to Pursify.",
       "ratings": "4.7"
     },
     {
         "id": "02",
         "img": "https://img.freepik.com/free-photo/satisfied-customer-using-online-mobile-app_74855-1204.jpg?t=st=1649072715~exp=1649073315~hmac=e8d54803baef3b516319a5a7f76eae843e289916ff3f2f4a56f0587872779d8c&w=900",
-        "name": "Christina",
+        "name": "Christina Johnson",
         "about": "I liked the bag bought from here. The design is so classy and regular usable.I am going to be their regular customer from now on.",
         "ratings": "4.5"
       },
@@ -17,29 +17,50 @@
       {
         "id": "03",
         "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?t=st=1649072715~exp=1649073315~hmac=bcc0000c5e26c91e2e7b86fa0ce2c04f4531790c8666aaf84b442d19e4aebd04&w=900",
-        "name": "Lauren",
+        "name": "Lauren Biel",
         "about": "Their student collection bag is highly recommended.I am still using mine. Keep going you guys.",
         "ratings": "5"
       },
       {
         "id": "04",
         "img": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?t=st=1649072715~exp=1649073315~hmac=b9d346ed30cb5ddeae3c1f617af32898904b2acf6c74d0975387798ae719a0c2&w=900",
-        "name": "Sarah",
+        "name": "Sarah Fatima",
         "about": "Very good quality they provide indeed. Best of luck.",
         "ratings": "4"
       },
       {
         "id": "05",
         "img": "https://img.freepik.com/free-photo/handsome-young-businessman-shirt-eyeglasses_85574-6228.jpg?w=900",
-        "name": "Robin",
+        "name": "Robin Gomes",
         "about": "Bought as a present for sister. She is super happy and really loved every bit of the bag, thanks for maintaining quality.",
         "ratings": "4.5"
       },
       {
         "id": "06",
         "img": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?t=st=1649072715~exp=1649073315~hmac=5374591a6f6ba67eb00053365d9613721735f9ce1064106a0fc8787459ce7bc5&w=740",
-        "name": "Hudson",
+        "name": "Henry Hudson",
         "about": "My girlfriend really loved the bag I bought for her from pursify.Thanks for the service,God speed.",
         "ratings": "5"
+      },
+      {
+        "id": "07",
+        "img": "https://img.freepik.com/free-photo/photo-young-boyfriend-girlfriend-have-fun-together-man-gives-piggyback-ride-female-use-mobile-phone-laugh-joyfully-isolated-purple-wall-happy-bloggers_273609-32842.jpg?t=st=1649143189~exp=1649143789~hmac=f797e5eafc93b7b02576272efe60a0bb27076e88220b5fa5c915f2866c0c1d69&w=900",
+        "name": "Elma Sienna",
+        "about": "Super comfy and classy design. Prefect for both party and regular use.Thanks to Pursify.",
+        "ratings": "5"
+      },
+      {
+        "id": "08",
+        "img": "https://img.freepik.com/free-photo/caucasian-handsome-man-posing-with-arms-hip-smiling-isolated-purple-wall_1368-89876.jpg?w=900",
+        "name": "Jonathan Fredrick",
+        "about": "Good for gifts I must say. Bought for my Mother and literally it goes perfectly with her age and her looks.Thanks to Pursify for keeping middle age ladies bag collection.",
+        "ratings": "4.4"
+      },
+      {
+        "id": "09",
+        "img": "https://img.freepik.com/free-photo/african-american-teenager-with-protective-face-mask-against-coronavirus_482257-21469.jpg?t=st=1649143189~exp=1649143789~hmac=011cf9c648c2394d7a675762ff8c4c85abe513ebb9767cf3aa8a14defa89b7e9&w=900",
+        "name": "Hannah Maria",
+        "about": "Quality was good but the design was average.Price should be a little bit more affordable.",
+        "ratings": "3"
       }
     ]

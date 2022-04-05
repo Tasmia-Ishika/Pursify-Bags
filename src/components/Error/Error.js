@@ -12,7 +12,8 @@ const Error = () => {
                     <CgSmileSad></CgSmileSad>
                 </div>
             </div>
-            <div className='mt-6'>
+            <img src="https://img.freepik.com/free-vector/error-404-concept-landing-page_52683-10996.jpg?t=st=1649143866~exp=1649144466~hmac=bd2c80c9e22fe28eb959771b6ad8e8ed1316a386c7e3f9909c3372846490e0c2&w=900" alt="" />
+            <div className='mt-12'>
                 <Link to="/" className='bg-red-900 text-white font-bold p-3 rounded'>Return to Home</Link>
             </div>
         </div>
